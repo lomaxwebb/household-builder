@@ -1,0 +1,1 @@
+All licenses in this repository are copyrighted by their respective authors.
